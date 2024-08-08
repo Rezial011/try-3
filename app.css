@@ -1,3 +1,8 @@
-h1 {
-    font-family: 'Courier New', Courier, monospace;
+.bagian {
+    display: inline-block;
+    text-align: center;
+}
+
+.gambar {
+    display: block;
 }
