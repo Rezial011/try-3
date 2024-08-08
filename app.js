@@ -1,6 +1,6 @@
 const container = document.querySelector('.container');
 
-for (let i = 1; i <= 50; i++) {
+for (let i = 1; i <= 52; i++) {
     const kolom = document.createElement('div');
     kolom.classList.add('bagian')
     container.appendChild(kolom)
